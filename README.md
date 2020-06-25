@@ -5,4 +5,8 @@ It is a React-Native App where you can sell the products that you don't want any
 # Demo
 
 
-![demo1](/demo/1.jpeg) | ![demo2](/demo/2.jpeg)
+<p float="left">
+  <img src="/demo/1.jpeg" width="100" />
+  <img src="/demo/2.jpeg" width="100" /> 
+  <img src="/demo/3.jpeg" width="100" />
+</p>
